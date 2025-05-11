@@ -39,3 +39,4 @@ yarn-error.*
 app-example
 android/gradle.properties
 android/app/my-upload-key.keystore
+android/my-upload-key.keystore
